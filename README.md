@@ -39,7 +39,7 @@ O mapa utiliza OpenStreetMap via OpenLayers (não requer chave).
 
 Este projeto é open source sob a licença MIT.
 
-## 🇺🇸 English
+## en English
 
 A JavaFX application that displays real-time weather information and shows an interactive map with the selected city’s location.
 
