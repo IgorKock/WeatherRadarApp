@@ -61,13 +61,11 @@ A JavaFX application that displays real-time weather information and shows an in
    git clone https://github.com/IgorKock/WeatherRadarApp.git
    cd WeatherRadarApp
    ```
-
 2. Compile and run with Maven:
 	```bash
 	mvn clean install
 	mvn javafx:run
 	```
-
 3. Enter a city name in the interface to see the weather and map.
 
 ⚙️ Configuration
