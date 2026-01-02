@@ -11,8 +11,8 @@ Uma aplicação JavaFX que exibe informações meteorológicas em tempo real e m
 - Interface simples e limpa em JavaFX
 
 ### 🛠️ Tecnologias
-- Java 17+
-- JavaFX (controls, web)
+- Java 21
+- JavaFX (controles, web)
 - Gson (para parse de JSON)
 - Maven (gerenciamento de dependências)
 
@@ -51,7 +51,7 @@ A JavaFX application that displays real-time weather information and shows an in
 - Simple and clean JavaFX interface
 
 ###🛠️ Technologies
-- Java 17+
+- Java 21
 - JavaFX (controls, web)
 - Gson (for JSON parsing)
 - Maven (dependency management)
