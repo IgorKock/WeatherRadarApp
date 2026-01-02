@@ -27,7 +27,6 @@ Uma aplicação JavaFX que exibe informações meteorológicas em tempo real e m
 	mvn clean install
 	mvn javafx:run
 	```
-
 3. Digite o nome da cidade na interface para ver o clima e o mapa.
 
 ⚙️  Configuração
