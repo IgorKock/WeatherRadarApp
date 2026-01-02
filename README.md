@@ -1,5 +1,3 @@
-# WeatherRadarApp 🌦️
-
 ## 🇧🇷 Português
 
 Uma aplicação JavaFX que exibe informações meteorológicas em tempo real e mostra um mapa interativo com a localização da cidade escolhida.
