@@ -27,7 +27,7 @@ Uma aplicação JavaFX que exibe informações meteorológicas em tempo real e m
 	```
 3. Digite o nome da cidade na interface para ver o clima e o mapa.
 
-⚙️  Configuração
+### ⚙️  Configuração
 
 É necessário obter uma chave da API do OpenWeatherMap e substituir no código (API_KEY).
 
@@ -66,7 +66,7 @@ A JavaFX application that displays real-time weather information and shows an in
 	```
 3. Enter a city name in the interface to see the weather and map.
 
-⚙️ Configuration
+### ⚙️ Configuration
 
 You need an API key from OpenWeatherMap. Replace the API_KEY constant in the code.
 
