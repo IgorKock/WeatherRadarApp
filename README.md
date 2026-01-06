@@ -33,7 +33,7 @@ Uma aplicação JavaFX que exibe informações meteorológicas em tempo real e m
 
 O mapa utiliza OpenStreetMap via OpenLayers (não requer chave).
 
-📜 Licença
+### 📜 Licença
 
 Este projeto é open source sob a licença MIT.
 
@@ -72,6 +72,6 @@ You need an API key from OpenWeatherMap. Replace the API_KEY constant in the cod
 
 The map uses OpenStreetMap via OpenLayers (no API key required).
 
-📜 License
+### 📜 License
 
 This project is open source under the MIT license.
