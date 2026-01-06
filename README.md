@@ -47,7 +47,7 @@ A JavaFX application that displays real-time weather information and shows an in
 - Shows an interactive map with a city marker (using OpenLayers)
 - Simple and clean JavaFX interface
 
-###🛠️ Technologies
+### 🛠️ Technologies
 - Java 21
 - JavaFX (controls, web)
 - Gson (for JSON parsing)
